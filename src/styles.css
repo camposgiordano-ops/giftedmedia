@@ -1,0 +1,193 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #f4efe4;
+  --color-paper-2: #fbf8f1;
+  --color-paper-3: #ebe4d4;
+  --color-ink: #1c1612;
+  --color-ink-soft: #3a332c;
+  --color-muted: #6b6258;
+  --color-rule: #d4cbb8;
+  --color-rule-strong: #b9ae97;
+  --color-accent: #8f1d2c;
+  --color-accent-soft: #c4a0a4;
+  --color-box: #f7f2e8;
+  --color-box-edge: #e6dcc8;
+  --color-inverse: #12100e;
+  --color-on-inverse: #f3efe6;
+  --color-inverse-muted: #a39e94;
+  --font-display: "Bodoni Moda", "Didot", "Bodoni MT", serif;
+  --font-serif: "Source Serif 4", "Source Serif Pro", Georgia, serif;
+  --font-sans: "Source Sans 3", ui-sans-serif, system-ui, sans-serif;
+  --radius-sm: 2px;
+  --radius-md: 4px;
+}
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-serif);
+    font-size: 1.0625rem;
+    line-height: 1.55;
+  }
+
+  button:not(:disabled),
+  [role="button"]:not(:disabled) {
+    cursor: pointer;
+  }
+
+  a {
+    color: inherit;
+  }
+
+  h1,
+  h2,
+  h3 {
+    text-wrap: balance;
+    font-family: var(--font-display);
+    font-weight: 600;
+    letter-spacing: -0.02em;
+  }
+
+  p {
+    text-wrap: pretty;
+  }
+
+  ::selection {
+    background: color-mix(in oklab, var(--color-accent) 22%, var(--color-paper));
+  }
+}
+
+.masthead-logo {
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: -0.035em;
+  line-height: 0.9;
+  color: var(--color-accent);
+  text-transform: none;
+}
+
+.wordmark {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.08em;
+  white-space: nowrap;
+  line-height: 0.85;
+  color: inherit;
+}
+
+.wordmark[data-size="md"] {
+  font-size: 1.22rem;
+}
+
+@media (min-width: 640px) {
+  .wordmark[data-size="md"] {
+    font-size: 1.5rem;
+  }
+}
+
+.wordmark[data-size="lg"] {
+  font-size: clamp(2.4rem, 6vw, 4.25rem);
+}
+
+.wordmark-gifted {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 600;
+  font-optical-sizing: auto;
+  letter-spacing: -0.05em;
+  font-size: 1.05em;
+}
+
+.wordmark-amp {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 500;
+  color: var(--color-accent);
+  font-size: 0.92em;
+  padding-inline: 0.04em;
+}
+
+.wordmark-media {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 0.42em;
+  letter-spacing: 0.34em;
+  text-transform: uppercase;
+  margin-left: 0.18em;
+  position: relative;
+  top: -0.18em;
+}
+
+.kicker {
+  font-family: var(--font-serif);
+  font-size: 0.68rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+  font-weight: 600;
+}
+
+.hairline {
+  height: 1px;
+  background: var(--color-rule);
+}
+
+.edit-ring {
+  outline: 1px dashed color-mix(in oklab, var(--color-accent) 45%, transparent);
+  outline-offset: 2px;
+}
+
+.ficha {
+  display: grid;
+  grid-template-columns: 6.5rem minmax(0, 1fr);
+  gap: 0.75rem;
+  min-width: 0;
+}
+
+.ficha-cover {
+  width: 6.5rem;
+  max-width: 6.5rem;
+}
+
+.home-lead {
+  display: grid;
+  gap: 1.5rem;
+  padding-block: 2.5rem;
+  align-items: stretch;
+}
+
+@media (min-width: 1024px) {
+  .home-lead {
+    grid-template-columns: minmax(0, 1fr) 16rem;
+  }
+}
+
+.destaque {
+  display: grid;
+  grid-template-columns: 7rem minmax(0, 1fr);
+  gap: 1rem;
+  min-width: 0;
+}
+
+.destaque-cover {
+  width: 7rem;
+  max-width: 7rem;
+}
+
+@media (min-width: 640px) {
+  .destaque {
+    grid-template-columns: 8.5rem minmax(0, 1fr);
+    gap: 1.5rem;
+  }
+  .destaque-cover {
+    width: 8.5rem;
+    max-width: 8.5rem;
+  }
+}

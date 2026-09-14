@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html b:css='false' b:js='true' b:defaultwidgetversion='2' b:layoutsVersion='3' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2003/gadgets/dir' xmlns:data='http://www.google.com/2005/gadget' xmlns:expr='http://www.google.com/2005/gadget/expr'>
+<head>
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
+<title><data:view.title.escaped/></title>
+<b:include data='blog' name='all-head-content'/>
+<link href='https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,600;1,6..96,500;1,6..96,600&family=Source+Sans+3:wght@600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600&display=swap' rel='stylesheet'/>
+<b:skin><![CDATA[
+:root{--paper:#f4efe4;--ink:#1c1612;--ink-soft:#3a332c;--muted:#6b6258;--rule:#d4cbb8;--accent:#8f1d2c;--inverse:#12100e;--on-inverse:#f3efe6;--inverse-muted:#a39e94;--box:#f7f2e8;--box-edge:#e6dcc8}
+html{-webkit-font-smoothing:antialiased}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"Source Serif 4",Georgia,serif;font-size:1.0625rem;line-height:1.55}
+a{color:inherit;text-decoration:none}
+img{max-width:100%;height:auto;display:block}
+h1,h2,h3{font-family:"Bodoni Moda",Didot,serif;font-weight:600;letter-spacing:-.02em}
+.gm-wrap{max-width:72rem;margin:0 auto;padding:0 1.25rem}
+.gm-header{background:var(--inverse);color:var(--on-inverse)}
+.gm-header-inner{display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:.75rem 0;flex-wrap:wrap}
+.gm-nav{display:flex;flex-wrap:wrap;gap:.25rem 1.25rem;font-size:.95rem;color:var(--inverse-muted)}
+.gm-nav a:hover{color:var(--on-inverse)}
+.wordmark{display:inline-flex;align-items:baseline;gap:.08em;white-space:nowrap;line-height:.85;color:inherit;font-size:1.35rem}
+.wordmark-gifted{font-family:"Bodoni Moda",Didot,serif;font-style:italic;font-weight:600;letter-spacing:-.05em;font-size:1.05em}
+.wordmark-amp{font-family:"Bodoni Moda",Didot,serif;font-style:italic;font-weight:500;color:var(--accent);font-size:.92em}
+.wordmark-media{font-family:"Source Sans 3",sans-serif;font-weight:600;font-size:.42em;letter-spacing:.34em;text-transform:uppercase;margin-left:.18em;position:relative;top:-.18em}
+.wordmark.lg{font-size:clamp(2.2rem,6vw,4rem)}
+.kicker{font-size:.68rem;letter-spacing:.18em;text-transform:uppercase;color:var(--accent);font-weight:600}
+.gm-main{padding:2.5rem 0 4rem}
+.gm-footer{background:var(--inverse);color:var(--on-inverse);margin-top:4rem}
+.gm-footer-inner{display:flex;flex-wrap:wrap;gap:2rem;justify-content:space-between;align-items:flex-end;padding:3.5rem 0}
+.gm-footer p{color:var(--inverse-muted);font-size:.9rem;max-width:28rem}
+.gm-posts{display:grid;grid-template-columns:1fr 1fr;gap:2.5rem 2rem}
+.gm-posts > .post:first-child{grid-column:1/-1;display:grid;grid-template-columns:8.5rem minmax(0,1fr);gap:1.5rem;padding-bottom:2.5rem;margin-bottom:.5rem;border-bottom:1px solid var(--rule)}
+.gm-card{display:grid;grid-template-columns:5.5rem minmax(0,1fr);gap:1rem}
+.post img,.gm-card img,.gm-posts > .post:first-child img{aspect-ratio:2/3;object-fit:cover;width:100%;background:var(--inverse);border:1px solid var(--rule)}
+.gm-posts > .post:first-child h3{font-size:clamp(1.8rem,4vw,2.6rem);line-height:.95;margin:.35rem 0 0}
+.gm-card h3,.post h3{font-size:1.35rem;line-height:1.05;margin:.3rem 0 0}
+.post h3 a:hover{color:var(--accent)}
+.gm-date{margin-top:.5rem;font-size:.7rem;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.gm-item{display:grid;grid-template-columns:14rem minmax(0,1fr);gap:2.5rem}
+.gm-item .cover{aspect-ratio:2/3;object-fit:cover;width:100%;border:1px solid var(--rule)}
+.gm-ficha{border:1px solid var(--box-edge);background:var(--box);padding:.85rem;font-size:.95rem;margin-top:1rem}
+.gm-body p{margin:.8rem 0}
+.gm-body a{color:var(--accent);text-decoration:underline}
+.gm-page-title{font-size:clamp(2rem,5vw,3rem);line-height:.95;margin:.4rem 0 1.5rem}
+.blog-pager{display:flex;gap:1.5rem;margin-top:2.5rem;font-size:.8rem;letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
+.post-footer,.blog-feeds,.status-msg-wrap,.comment-form{display:none!important}
+@media(max-width:800px){
+.gm-posts,.gm-posts > .post:first-child,.gm-card,.gm-item{grid-template-columns:1fr}
+.gm-posts > .post:first-child img,.gm-card img{width:8.5rem}
+}
+]]></b:skin>
+</head>
+<body>
+<header class='gm-header'>
+<div class='gm-wrap gm-header-inner'>
+<a class='wordmark' expr:href='data:blog.homepageUrl'><span class='wordmark-gifted'>Gifted</span> <span class='wordmark-amp'>&</span> <span class='wordmark-media'>Media</span></a>
+<nav class='gm-nav'>
+<b:section id='nav' maxwidgets='1' showaddelement='no'>
+<b:widget id='LinkList1' locked='false' title='Seções' type='LinkList'>
+<b:widget-settings>
+<b:widget-setting name='sorting'>NONE</b:widget-setting>
+</b:widget-settings>
+<b:includable id='main'>
+<b:loop values='data:links' var='link'>
+<a expr:href='data:link.target'><data:link.name/></a>
+</b:loop>
+</b:includable>
+</b:widget>
+</b:section>
+</nav>
+</div>
+</header>
+<div class='gm-wrap gm-main'>
+<b:section class='main' id='main' showaddelement='yes'>
+<b:widget id='Blog1' locked='true' title='Blog Posts' type='Blog' version='1'>
+<b:includable id='main'>
+<b:if cond='data:blog.pageType == "item"'>
+<b:loop values='data:posts' var='post'>
+<article class='gm-item'>
+<aside>
+<b:if cond='data:post.firstImageUrl'><img class='cover' expr:alt='data:post.title' expr:src='data:post.firstImageUrl'/></b:if>
+<p class='gm-date'><data:post.dateHeader/></p>
+</aside>
+<div>
+<p class='kicker'>Análise</p>
+<h1 class='gm-page-title'><data:post.title/></h1>
+<div class='gm-body'><data:post.body/></div>
+</div>
+</article>
+</b:loop>
+<b:elseif cond='data:blog.pageType == "static_page"'/>
+<b:loop values='data:posts' var='post'>
+<p class='kicker'>Gifted & Media</p>
+<h1 class='gm-page-title'><data:post.title/></h1>
+<div class='gm-body'><data:post.body/></div>
+</b:loop>
+<b:else/>
+<div class='gm-posts'>
+<b:loop values='data:posts' var='post'>
+<article class='post gm-card'>
+<div><b:if cond='data:post.firstImageUrl'><a expr:href='data:post.url'><img expr:alt='data:post.title' expr:src='data:post.firstImageUrl'/></a></b:if></div>
+<div>
+<h3><a expr:href='data:post.url'><data:post.title/></a></h3>
+<p class='gm-date'><data:post.dateHeader/></p>
+</div>
+</article>
+</b:loop>
+</div>
+</b:if>
+<div class='blog-pager'>
+<b:if cond='data:olderPageUrl'><a expr:href='data:olderPageUrl'>Anteriores</a></b:if>
+<b:if cond='data:newerPageUrl'><a expr:href='data:newerPageUrl'>Mais recentes</a></b:if>
+</div>
+</b:includable>
+</b:widget>
+</b:section>
+</div>
+<footer class='gm-footer'>
+<div class='gm-wrap gm-footer-inner'>
+<div>
+<span class='wordmark lg'><span class='wordmark-gifted'>Gifted</span> <span class='wordmark-amp'>&</span> <span class='wordmark-media'>Media</span></span>
+<p>Recurso pedagógico de educomunicação e letramento midiático para a desestigmatização das Altas Habilidades/Superdotação no cinema e na literatura, voltado a familiares, educadores, pesquisadores e imprensa.</p>
+</div>
+<p style='letter-spacing:.16em;text-transform:uppercase;font-size:.72rem'>Brasília · UnB / SEEDF</p>
+</div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Gifted & Media",
+      "hasCanvas": false,
+      "bodyTextLen": 1062,
+      "bodyTextHash": "1cc617272753fbcc04736f1f1439ce9d4bd521a595a1270410cc5a86b936ec27",
+      "bodyTextPrefix": "Gifted & MEDIA Sobre Catálogo Imprensa Glossário 03 DE SETEMBRO ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Gifted & Media",
+      "hasCanvas": false,
+      "bodyTextLen": 1062,
+      "bodyTextHash": "1cc617272753fbcc04736f1f1439ce9d4bd521a595a1270410cc5a86b936ec27",
+      "bodyTextPrefix": "Gifted & MEDIA Sobre Catálogo Imprensa Glossário 03 DE SETEMBRO ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

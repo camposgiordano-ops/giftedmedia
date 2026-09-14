@@ -1,0 +1,1593 @@
+{
+  "exportedAt": "2026-09-03T19:22:31.173Z",
+  "films": [
+    {
+      "slug": "gifted",
+      "title": "Gifted",
+      "originalTitle": "Gifted",
+      "year": 2017,
+      "country": "EUA",
+      "director": "Marc Webb",
+      "format": "filme",
+      "genre": "Drama",
+      "duration": "101 min",
+      "domains": [
+        "matematica"
+      ],
+      "stereotypeIds": [
+        "prodigio-como-espetaculo",
+        "familia-como-obstaculo",
+        "matematica-como-unica-area",
+        "sofrimento-como-preco"
+      ],
+      "still": "/stills/gifted.jpg",
+      "kicker": "Análise",
+      "excerpt": "Uma menina de sete anos, um quadro-negro e uma disputa de guarda: Gifted ensina o país a olhar a superdotação como drama familiar — e quase não ensina a olhar a Matemática.",
+      "date": "2026-03-12",
+      "featured": true,
+      "classroomPick": true,
+      "stereotypeRisk": 3,
+      "pedagogyScore": 5,
+      "understandSlug": "enquadramento",
+      "sections": [
+        {
+          "heading": "Sinopse",
+          "paragraphs": [
+            "Mary Adler, sete anos, resolve problemas que o filme mal se dá ao trabalho de nomear. O que a câmera realmente persegue não é a Matemática: é a guarda. De um lado, o tio Frank, que quer infância, ônibus escolar e amizade com a vizinha. De outro, a avó Evelyn, que quer MIT, papers e a linhagem da mãe morta — matemática brilhante, suicida, fantasma do par gênio-e-loucura. O conflito é nítido, e por isso didático: duas pedagogias da AH/SD brigam no tribunal."
+          ]
+        },
+        {
+          "heading": "Comportamentos e estereótipos",
+          "paragraphs": [
+            "O título em inglês, Gifted, já é um enquadramento. No Brasil, a palavra superdotado carrega estigma; nos EUA, gifted nomeia política educacional. O filme traduz essa política em melodrama. A criança é o bem jurídico. O potencial, o objeto da disputa. A Matemática, o pretexto.",
+            "Há um gesto raro e valioso: a protagonista é menina. O cinema de prodígios costuma reservar o quadro-negro aos meninos. Mary inverte o casting e, ainda assim, herda o recorte. Não vemos outras áreas. Não vemos a escola pública negociando currículo. Não vemos o tédio, as overexcitabilities, o desenho, o humor. Vemos uma criança cuja humanidade precisa ser provada contra o QI."
+          ]
+        },
+        {
+          "heading": "Tensão com o \"mundo normal\"",
+          "paragraphs": [
+            "Para o letramento midiático, isso é ouro. Pode-se pausar a cena da lousa e perguntar: que Matemática é essa? Quem a avalia? Que acontece com a colega que não 'é gifted'? O filme abre a conversa sobre aceleração — e fecha demais a conversa sobre diversidade de perfis.",
+            "O contra-enquadramento não pede que se odeie Evelyn nem que se canonize Frank. Pede que se desloque a pergunta. Em vez de 'quem merece a criança?', 'de que a criança precisa para não virar vitrine?'. Em vez de 'ela é gênio ou é criança?', 'como uma menina com alto potencial em Matemática permanece menina, aluna e neta?'."
+          ]
+        },
+        {
+          "heading": "Mediação pedagógica",
+          "paragraphs": [
+            "Assistido assim, Gifted deixa de ser um cartão-postal da superdotação e vira dispositivo: mostra o risco de a família, a escola e a universidade tratarem o potencial como propriedade. É exatamente o diagnóstico que esta plataforma pretende responder."
+          ]
+        }
+      ],
+      "viewingGuide": [
+        {
+          "q": "Quem fala sobre a Matemática de Mary — e quem a escuta?",
+          "why": "Revela se o talento é diálogo ou espetáculo."
+        },
+        {
+          "q": "O que o filme mostra de Mary quando ela não está calculando?",
+          "why": "Mede se existe pessoa fora do desempenho."
+        },
+        {
+          "q": "Qual pedagogia vence no tribunal, e qual vence na última cena?",
+          "why": "O desfecho legal e o desfecho afetivo quase nunca coincidem."
+        },
+        {
+          "q": "Se Mary fosse um menino negro de escola pública, o filme existiria?",
+          "why": "Expõe o recorte de raça, classe e gênero do cânone gifted."
+        }
+      ],
+      "forFamily": "Útil para conversar sobre aceleração sem transformar a casa em banca examinadora. Pausar antes do veredito e perguntar à criança: o que você acharia justo para Mary?",
+      "forTeacher": "Bom ponto de partida para discutir Plano Educacional Individualizado e o mito de que 'socializar' e 'acelerar' são opostos. Trabalhar o recorte de gênero em Matemática.",
+      "forPress": "Evitar a manchete 'a criança-gênio que a avó queria explorar'. Preferir: disputa de modelos educacionais em torno de uma menina com AH/SD em Matemática.",
+      "draft": true
+    },
+    {
+      "slug": "good-will-hunting",
+      "title": "Gênio Indomável",
+      "originalTitle": "Good Will Hunting",
+      "year": 1997,
+      "country": "EUA",
+      "director": "Gus Van Sant",
+      "format": "filme",
+      "genre": "Drama",
+      "duration": "126 min",
+      "domains": [
+        "matematica"
+      ],
+      "stereotypeIds": [
+        "isolamento-como-destino",
+        "sofrimento-como-preco",
+        "matematica-como-unica-area"
+      ],
+      "still": "/stills/good-will-hunting.jpg",
+      "kicker": "Classe e lousa",
+      "excerpt": "O zelador que resolve o problema no corredor de MIT é o sonho americano da meritocracia — e um dos retratos mais persistentes do talento matemático como ferida de classe.",
+      "date": "2026-02-28",
+      "stereotypeRisk": 3,
+      "pedagogyScore": 4,
+      "sections": [
+        {
+          "heading": "Sinopse",
+          "paragraphs": [
+            "Will Hunting não precisa da escola: a escola precisa descobri-lo. O corredor, o quadro, o professor que não acredita no que vê. A Matemática aparece como milagre de origem operária, e a terapia de Robin Williams como o verdadeiro terceiro ato. O filme diz duas coisas ao mesmo tempo: o talento é natural; o talento é trauma."
+          ]
+        },
+        {
+          "heading": "Comportamentos e estereótipos",
+          "paragraphs": [
+            "A amizade com Chuckie, o bar, a violência, o sotaque de South Boston: raro é um filme de gênio que leva a classe a sério. Raro, também, é um filme de gênio que faz da Matemática pouco mais que um ticket de saída."
+          ]
+        },
+        {
+          "heading": "Tensão com o \"mundo normal\"",
+          "paragraphs": [
+            "O contra-enquadramento começa no corredor. A lousa não é um altar: é um espaço público, sujo, atravessado por quem limpa o prédio. Pode-se ler ali uma tese sobre identificação tardia — o alto potencial que a escola regular não viu. Pode-se ler, com mais rigor, uma denúncia: o sistema só reconhece Will quando ele invade o território da universidade."
+          ]
+        },
+        {
+          "heading": "Mediação pedagógica",
+          "paragraphs": [
+            "Para familiares e docentes, a pergunta útil não é 'ele deveria ir para a NASA?'. É: quantos Wills a escola brasileira deixa no turno da limpeza, no EJA, na dependência, no 'aluno-problema' que acaba a prova em dez minutos e depois bagunça?"
+          ]
+        }
+      ],
+      "viewingGuide": [
+        {
+          "q": "O que a câmera ama mais: a lousa ou o rosto ferido?",
+          "why": "Mede se o filme trata a Matemática ou o sofrimento como espetáculo."
+        },
+        {
+          "q": "Quem, na vida de Will, não é terapeuta, professor ou genial?",
+          "why": "Os pares de classe são o anti-isolamento que o cânone costuma apagar."
+        }
+      ],
+      "forFamily": "Conversar sobre identificação tardia e sobre o mito de que o talento 'aparece sozinho'. Will não precisava de palco; precisava de alguém que lesse o que já estava ali.",
+      "forTeacher": "Usar a cena da lousa para discutir sub-rendimento e alunos que terminam cedo. O 'problema de comportamento' como possível recusa ao currículo raso.",
+      "forPress": "Não transformar toda reportagem de olimpíada em 'o Will Hunting brasileiro'. Classe, trauma e Matemática não são a mesma manchete.",
+      "draft": true
+    },
+    {
+      "slug": "uma-mente-brilhante",
+      "title": "Uma Mente Brilhante",
+      "originalTitle": "A Beautiful Mind",
+      "year": 2001,
+      "country": "EUA",
+      "director": "Ron Howard",
+      "format": "filme",
+      "genre": "Biográfico",
+      "duration": "135 min",
+      "domains": [
+        "matematica"
+      ],
+      "stereotypeIds": [
+        "genio-e-loucura",
+        "padrao-homem-branco-stem",
+        "matematica-como-unica-area"
+      ],
+      "still": "/stills/mente-brilhante.jpg",
+      "kicker": "O par fundador",
+      "excerpt": "Nash, a janela e as fórmulas: Hollywood cola a teoria dos jogos à esquizofrenia e entrega o manual mais influente do século para associar AH/SD à doença.",
+      "date": "2026-02-14",
+      "stereotypeRisk": 5,
+      "pedagogyScore": 5,
+      "sections": [
+        {
+          "heading": "Sinopse",
+          "paragraphs": [
+            "Poucos filmes educaram tanto o olhar leigo. A Beautiful Mind ensina que a mente que vê padrões no mundo também vê padrões que não estão lá. A cinematografia faz o espectador compartilhar o delírio — um feito formal — e, ao mesmo tempo, sela o contrato: gênio matemático e psicose andam de mãos dadas."
+          ]
+        },
+        {
+          "heading": "Comportamentos e estereótipos",
+          "paragraphs": [
+            "A biografia real de John Nash é mais áspera, mais política, menos redentora. O filme escolhe a esposa-salva, o Nobel-como-absolvição, a Matemática como linguagem do invisível. É belo. É perigoso quando vira atalho para reportar qualquer adolescente que tira dez em física."
+          ]
+        },
+        {
+          "heading": "Tensão com o \"mundo normal\"",
+          "paragraphs": [
+            "O contra-enquadramento não nega o sofrimento psíquico. Nega a causalidade. Alto potencial não produz esquizofrenia; esquizofrenia não autentica o gênio. A sobreposição existe na vida de algumas pessoas — e o cinema a generalizou como regra dramática."
+          ]
+        },
+        {
+          "heading": "Mediação pedagógica",
+          "paragraphs": [
+            "Na sala de aula e na redação, o filme serve como peça de desmontagem: onde a câmera pede empatia, a pauta jornalística costuma pedir espetáculo. Separar os dois é letramento."
+          ]
+        }
+      ],
+      "viewingGuide": [
+        {
+          "q": "Em que momento o espectador deixa de distinguir padrão matemático e delírio?",
+          "why": "É o ponto em que o filme funde os dois fenômenos."
+        },
+        {
+          "q": "O que restaria da trama se Nash não fosse laureado?",
+          "why": "Testa se a humanidade do personagem depende do prêmio."
+        }
+      ],
+      "forFamily": "Não usar o filme como espelho diagnóstico. Se houver sofrimento psíquico na casa, ele merece cuidado próprio — não uma analogia com Princeton.",
+      "forTeacher": "Excelente para alfabetizar o olhar: pausar as janelas riscadas e perguntar que ideia de Matemática (e de loucura) está sendo vendida.",
+      "forPress": "Jamais abrir perfil de olimpíada com 'uma mente brilhante'. A metáfora já chega viciada."
+    },
+    {
+      "slug": "estrelas-alem-do-tempo",
+      "title": "Estrelas Além do Tempo",
+      "originalTitle": "Hidden Figures",
+      "year": 2016,
+      "country": "EUA",
+      "director": "Theodore Melfi",
+      "format": "filme",
+      "genre": "Biográfico",
+      "duration": "127 min",
+      "domains": [
+        "matematica"
+      ],
+      "stereotypeIds": [
+        "padrao-homem-branco-stem",
+        "sofrimento-como-preco"
+      ],
+      "still": "/stills/hidden-figures.jpg",
+      "kicker": "Contra-enquadramento",
+      "excerpt": "Três mulheres negras na NASA: o filme mais útil do catálogo para deslocar o gênio solitário, branco e masculino — se não o reduzirmos a uma fábula de superação.",
+      "date": "2026-01-30",
+      "classroomPick": true,
+      "stereotypeRisk": 2,
+      "pedagogyScore": 5,
+      "sections": [
+        {
+          "heading": "Sinopse",
+          "paragraphs": [
+            "Katherine Johnson, Dorothy Vaughan e Mary Jackson deslocam o elenco do gênio. A Matemática aqui é trabalho: bancada, cálculo orbital, computação humana, disputa por banheiro e por crédito. O filme hollywoodiano suaviza o racismo institucional, mas não consegue apagar o essencial: o alto potencial existe em corpos que o cânone recusou ver."
+          ]
+        },
+        {
+          "heading": "Comportamentos e estereótipos",
+          "paragraphs": [
+            "Há o risco da 'superação'. A câmera ama a corrida no corredor, a lousa preenchida sob o olhar branco. O espectador sai emocionado e pode concluir que o talento vence o racismo. Não vence. Organiza-se contra ele, coletivamente, e ainda assim depende de brechas históricas."
+          ]
+        },
+        {
+          "heading": "Tensão com o \"mundo normal\"",
+          "paragraphs": [
+            "Para a AH/SD, o filme é um antídoto ao padrão homem-branco-STEM e ao isolamento como destino. Há grupo. Há mentoria entre pares. Há Matemática como ofício, não como milagre. Há mulheres negras cuja competência não precisa do palco infantil nem do delírio."
+          ]
+        },
+        {
+          "heading": "Mediação pedagógica",
+          "paragraphs": [
+            "No Brasil, o filme autoriza uma pergunta que a cobertura de olimpíadas quase não faz: onde estão as meninas negras da rede pública nas narrativas de 'superdotação'? O fora de campo nacional é o verdadeiro hidden figure."
+          ]
+        }
+      ],
+      "viewingGuide": [
+        {
+          "q": "A Matemática aparece como dom ou como trabalho acumulado?",
+          "why": "Desfaz o milagre e devolve o estudo."
+        },
+        {
+          "q": "Quem calcula fora do plano heroico da protagonista?",
+          "why": "O coletivo é o contra-enquadramento do gênio solitário."
+        }
+      ],
+      "forFamily": "Assistir para mostrar que o talento matemático não tem um único rosto. Conversar sobre crédito: quem assina o cálculo, quem aparece na foto.",
+      "forTeacher": "Ideal em projetos de Matemática e relações étnico-raciais. Evitar a ficha 'mulheres que venceram o preconceito' sem discutir instituição.",
+      "forPress": "Quando houver pauta de AH/SD, buscar fontes para além do menino da olimpíada. Este filme é o argumento visual para essa escolha."
+    },
+    {
+      "slug": "o-gambito-da-rainha",
+      "title": "O Gambito da Rainha",
+      "originalTitle": "The Queen's Gambit",
+      "year": 2020,
+      "country": "EUA",
+      "director": "Scott Frank",
+      "format": "serie",
+      "genre": "Drama",
+      "duration": "7 episódios",
+      "domains": [
+        "xadrez"
+      ],
+      "stereotypeIds": [
+        "prodigio-como-espetaculo",
+        "sofrimento-como-preco",
+        "isolamento-como-destino",
+        "genio-e-loucura"
+      ],
+      "still": "/stills/gambito.jpg",
+      "kicker": "Série",
+      "excerpt": "Beth Harmon é o prodígio feminino que o cânone devia ao xadrez — e também o retrato mais sedutor da superdotação como vício, teto e teto de hotel.",
+      "date": "2026-01-18",
+      "classroomPick": true,
+      "stereotypeRisk": 3,
+      "pedagogyScore": 4,
+      "sections": [
+        {
+          "heading": "O enquadramento",
+          "paragraphs": [
+            "A série faz duas operações simultâneas. De um lado, entrega uma protagonista mulher num território de homens, com prazer estético, competência e desejo. De outro, amarra o talento ao orfanato, à pílula, ao álcool, ao teto de quarto como tabuleiro alucinatório. A superdotação vira estilo. O sofrimento, décor.",
+            "O xadrez, como a Matemática, é área de fácil espetacularização: tem tabuleiro, relógio, campeonato, União Soviética. A AH/SD em artes visuais, em liderança, em psicomotricidade não cabe nesse figurino. Beth amplia o gênero do gênio; não amplia o mapa das áreas."
+          ]
+        },
+        {
+          "heading": "Contra-enquadramento",
+          "paragraphs": [
+            "Há material generoso: a amizade com Jolene, a casa de Alma, o respeito entre rivais. O contra-enquadramento mora aí — no vínculo que não pede a Beth que deixe de ser brilhante para ser amada. Pausar nessas cenas é mais pedagógico do que pausar no teto.",
+            "Para a imprensa, o risco é óbvio: toda menina campeã vira 'a Beth Harmon brasileira'. A série não é biografia de AH/SD. É ficção de estilo. Tratar uma como a outra é exatamente o enquadramento que esta plataforma recusa."
+          ]
+        }
+      ],
+      "viewingGuide": [
+        {
+          "q": "O teto do quarto explica o talento ou o substitui?",
+          "why": "A alucinação visual pode ser metáfora — ou atalho clínico."
+        },
+        {
+          "q": "Quem ensina Beth sem querer possuir o talento dela?",
+          "why": "Mapeia adultos que não cabem no estereótipo da família-obstáculo."
+        }
+      ],
+      "forFamily": "Conversar sobre pressão de desempenho e substâncias. A série é adulta; o recorte para adolescentes pede mediação.",
+      "forTeacher": "Bom para discutir gênero em espaços de excelência. Ruim como 'retrato fiel' de AH/SD. Explicitar a diferença.",
+      "forPress": "Não usar Beth como template de perfil. Xadrez, gênero e vício não resumem a política de superdotação."
+    },
+    {
+      "slug": "matilda",
+      "title": "Matilda",
+      "originalTitle": "Matilda",
+      "year": 1996,
+      "country": "EUA",
+      "director": "Danny DeVito",
+      "format": "filme",
+      "genre": "Fantasia",
+      "duration": "98 min",
+      "domains": [
+        "verbal",
+        "multipotencial"
+      ],
+      "stereotypeIds": [
+        "familia-como-obstaculo",
+        "prodigio-como-espetaculo"
+      ],
+      "still": "/stills/matilda.jpg",
+      "kicker": "Infância",
+      "excerpt": "Antes do QI, a biblioteca. Matilda é o filme que as famílias de AH/SD já amam — e o que melhor mostra a escola como prisão e como refúgio.",
+      "date": "2025-12-09",
+      "classroomPick": true,
+      "stereotypeRisk": 2,
+      "pedagogyScore": 5,
+      "sections": [
+        {
+          "heading": "Sinopse",
+          "paragraphs": [
+            "Roald Dahl e DeVito tratam o superdotação sem a palavra. Matilda lê, observa, organiza o mundo, e a família Wormwood vive de não vê-la. A telecinesia é a metáfora: o potencial que não encontra canal vira força descontrolada. Miss Honey é a docente que identifica. Trunchbull é a escola que pune o desvio."
+          ]
+        },
+        {
+          "heading": "Comportamentos e estereótipos",
+          "paragraphs": [
+            "Diferente do cânone STEM, aqui o talento é verbal, ético, imaginativo. Por isso o filme é precioso para esta plataforma: ele quebra a Matemática como única área sem discursar sobre isso."
+          ]
+        },
+        {
+          "heading": "Tensão com o \"mundo normal\"",
+          "paragraphs": [
+            "O perigo está na família-como-caricatura. Pais ignorantes, néscios, televisivos: o espectador ri e, sem perceber, assina o estereótipo de que a criança superdotada precisa ser salva dos seus. Na vida, a identificação quase sempre começa em casa — inclusive em casas sem capital cultural óbvio."
+          ]
+        },
+        {
+          "heading": "Mediação pedagógica",
+          "paragraphs": [
+            "O ouro pedagógico é Miss Honey: a escuta, o livro certo, a recusa de transformar a aluna em troféu. Contra-enquadrar Matilda é olhar menos para a telecinesia e mais para a professora que não teme o potencial alheio."
+          ]
+        }
+      ],
+      "viewingGuide": [
+        {
+          "q": "O que Matilda faz quando ninguém está olhando?",
+          "why": "O talento não mediado por palco."
+        },
+        {
+          "q": "Miss Honey identifica ou adestra?",
+          "why": "Diferença entre acolhimento e projeto de vitrine."
+        }
+      ],
+      "forFamily": "Assistir juntos e perguntar: quem, na vida real, já foi um Wormwood sem perceber? A conversa dói e educa.",
+      "forTeacher": "Peça clássica para formação docente. Trunchbull como alegoria da escola que patologiza a criança rápida.",
+      "forPress": "Quando a pauta for 'criança que lê aos três anos', resistir ao tom de freak show. Matilda já denunciou esse olhar."
+    },
+    {
+      "slug": "o-jogo-da-imitacao",
+      "title": "O Jogo da Imitação",
+      "originalTitle": "The Imitation Game",
+      "year": 2014,
+      "country": "Reino Unido",
+      "director": "Morten Tyldum",
+      "format": "filme",
+      "genre": "Biográfico",
+      "duration": "113 min",
+      "domains": [
+        "matematica"
+      ],
+      "stereotypeIds": [
+        "isolamento-como-destino",
+        "padrao-homem-branco-stem",
+        "savant-e-autismo"
+      ],
+      "still": "/stills/imitacao.jpg",
+      "kicker": "Biografia",
+      "excerpt": "Turing no cinema: a máquina, o segredo e um figurino de 'gênio antissocial' que aproxima a criptoanálise de um checklist de autismo sem jamais nomeá-lo.",
+      "date": "2025-11-22",
+      "stereotypeRisk": 4,
+      "pedagogyScore": 3,
+      "sections": [
+        {
+          "heading": "Sinopse",
+          "paragraphs": [
+            "O filme precisa que Turing seja difícil. A rudeza, a literalidade, a recusa do small talk viram atalho de caracterização — um autismo não dito, um savant de guerra. A Matemática e a computação, que são o coração histórico, viram pano de fundo de um drama de incompreensão."
+          ]
+        },
+        {
+          "heading": "Comportamentos e estereótipos",
+          "paragraphs": [
+            "Há um segundo apagamento: a vida afetiva e a perseguição de Estado são reorganizadas para caber no paladar da temporada de prêmios. O gênio solitário é mais fácil de vender do que a rede de Bletchley, as mulheres analistas, o coletivo da quebra da cifra."
+          ]
+        },
+        {
+          "heading": "Tensão com o \"mundo normal\"",
+          "paragraphs": [
+            "Devolver o coletivo. Devolver a ambiguidade clínica: não diagnosticar o morto. Devolver a política: o Estado que usa o talento e depois o pune. Para a AH/SD, a lição é institucional. O potencial não é um caráter. É uma relação com o trabalho, com a lei e com os pares."
+          ]
+        },
+        {
+          "heading": "Mediação pedagógica",
+          "paragraphs": [
+            ""
+          ]
+        }
+      ],
+      "viewingGuide": [
+        {
+          "q": "Quais traços de Turing o filme trata como sintomas?",
+          "why": "Expõe a fusão savant-autismo-AH/SD."
+        },
+        {
+          "q": "Quem mais quebra códigos neste filme e mal aparece?",
+          "why": "O gênio solitário se constrói apagando a equipe."
+        }
+      ],
+      "forFamily": "Não é filme para 'explicar' autismo ou AH/SD. É filme para discutir como Hollywood fabrica o gênio difícil.",
+      "forTeacher": "Útil em Ética e História da ciência. Perigoso se usado como biografia psicológica.",
+      "forPress": "Cuidado com o perfil 'o Turing da escola X'. A comparação carrega perseguição, suicídio e um diagnóstico fantasma."
+    },
+    {
+      "slug": "em-busca-de-bobby-fischer",
+      "title": "Em Busca de Bobby Fischer",
+      "originalTitle": "Searching for Bobby Fischer",
+      "year": 1993,
+      "country": "EUA",
+      "director": "Steven Zaillian",
+      "format": "filme",
+      "genre": "Drama",
+      "duration": "110 min",
+      "domains": [
+        "xadrez"
+      ],
+      "stereotypeIds": [
+        "prodigio-como-espetaculo",
+        "familia-como-obstaculo"
+      ],
+      "still": "/stills/bobby-fischer.jpg",
+      "kicker": "Para a sala de aula",
+      "excerpt": "Dois métodos, um menino, o parque e a academia: talvez o filme mais honesto sobre o que a pressão adulta faz com a criança que 'tem jeito'.",
+      "date": "2025-10-30",
+      "classroomPick": true,
+      "stereotypeRisk": 2,
+      "pedagogyScore": 5,
+      "sections": [
+        {
+          "heading": "Sinopse",
+          "paragraphs": [
+            "Josh Waitzkin joga no parque e na escola de xadrez. De um lado, a improvisação, o prazer, o hustle. De outro, a disciplina, o desprezo pelo erro, a sombra de Fischer como destino. O pai oscila entre orgulho e projeto. O filme — raro — deixa a criança escolher não ser monstro sagrado."
+          ]
+        },
+        {
+          "heading": "Comportamentos e estereótipos",
+          "paragraphs": [
+            "Não há delírio, não há QI falado, não há lousa de MIT. Há pedagogia. Por isso a fita interessa mais à formação docente do que metade do cânone de gênios."
+          ]
+        },
+        {
+          "heading": "Tensão com o \"mundo normal\"",
+          "paragraphs": [
+            "O contra-enquadramento já está encenado: a recusa de humilhar o oponente, a recusa de vencer a qualquer custo, a recusa de copiar Fischer. Assistir com familiares é discutir aceleração com ética. Assistir com docentes é discutir que excelência sem vínculo vira adestramento."
+          ]
+        },
+        {
+          "heading": "Mediação pedagógica",
+          "paragraphs": [
+            ""
+          ]
+        }
+      ],
+      "viewingGuide": [
+        {
+          "q": "O que cada adulto quer que Josh seja?",
+          "why": "Mapeia projeções — o motor invisível da vitrine."
+        },
+        {
+          "q": "Quando Josh joga pior, o filme o pune ou o compreende?",
+          "why": "Testa se o valor da criança depende da vitória."
+        }
+      ],
+      "forFamily": "O melhor filme do catálogo para falar de pressão. Pausar quando o pai erra. Dizer em voz alta: isso também somos nós.",
+      "forTeacher": "Peça-chave de formação. Dois modelos de ensino em conflito, sem demonizar a técnica nem o prazer.",
+      "forPress": "Modelo de pauta: em vez do recorde, o método. Em vez do 'próximo Fischer', a criança que não quer ser o próximo."
+    },
+    {
+      "slug": "xy",
+      "title": "X+Y",
+      "originalTitle": "A Brilliant Young Mind",
+      "year": 2014,
+      "country": "Reino Unido",
+      "director": "Morgan Matthews",
+      "format": "filme",
+      "genre": "Drama",
+      "duration": "111 min",
+      "domains": [
+        "matematica"
+      ],
+      "stereotypeIds": [
+        "savant-e-autismo",
+        "isolamento-como-destino",
+        "matematica-como-unica-area"
+      ],
+      "still": "/stills/xy.jpg",
+      "kicker": "Olimpíada",
+      "excerpt": "A olimpíada internacional como rito de passagem: Nathan é o filme que mais colou, na última década, a Matemática escolar ao autismo de alto desempenho.",
+      "date": "2025-09-17",
+      "stereotypeRisk": 4,
+      "pedagogyScore": 4,
+      "sections": [
+        {
+          "heading": "Sinopse",
+          "paragraphs": [
+            "Derivado de um documentário, X+Y segue um adolescente britânico até a olimpíada de Matemática na China. O luto do pai, a dificuldade social, a mentoria, o primeiro afeto. O filme é terno e, exatamente por isso, eficaz ao fundir AH/SD, luto e autismo num só arco."
+          ]
+        },
+        {
+          "heading": "Comportamentos e estereótipos",
+          "paragraphs": [
+            "A olimpíada é o palco contemporâneo da superdotação matemática. Quem não cabe nela — a menina da escola do campo, o menino artista, a estudante 2e que vai mal na prova cronometrada — some do quadro."
+          ]
+        },
+        {
+          "heading": "Tensão com o \"mundo normal\"",
+          "paragraphs": [
+            "Usar o filme para abrir o recorte, não para confirmá-lo. Perguntar: que outros talentos a olimpíada não mede? Que faz a escola com quem pensa depressa mas não compete? A China, no filme, é cenário de excelência; pode ser também espelho de uma corrida que o Brasil copia sem política de vínculo."
+          ]
+        },
+        {
+          "heading": "Mediação pedagógica",
+          "paragraphs": [
+            ""
+          ]
+        }
+      ],
+      "viewingGuide": [
+        {
+          "q": "O que a olimpíada vê em Nathan, e o que a mãe vê?",
+          "why": "Dois sistemas de reconhecimento em conflito."
+        },
+        {
+          "q": "A Matemática é comunicação ou refúgio?",
+          "why": "O filme oscila — e essa oscilação é o material didático."
+        }
+      ],
+      "forFamily": "Cuidado para não ler o filho olimpíco como Nathan. A identificação deve ser oferta, não destino.",
+      "forTeacher": "Bom para discutir olimpíadas como política (e como recorte). Complementar com perfis de AH/SD fora das exatas.",
+      "forPress": "Toda cobertura de olimpíada deveria passar por este filme — para não repetir o arco luto-autismo-medalha."
+    },
+    {
+      "slug": "como-estrelas-na-terra",
+      "title": "Como Estrelas na Terra",
+      "originalTitle": "Taare Zameen Par",
+      "year": 2007,
+      "country": "Índia",
+      "director": "Aamir Khan",
+      "format": "filme",
+      "genre": "Drama",
+      "duration": "165 min",
+      "domains": [
+        "artes"
+      ],
+      "stereotypeIds": [
+        "familia-como-obstaculo",
+        "prodigio-como-espetaculo"
+      ],
+      "still": "/stills/taare.jpg",
+      "kicker": "Dupla excepcionalidade",
+      "excerpt": "Ishaan não é o gênio da lousa: é o menino que falha na escola e desenha o mundo. O filme mais importante do catálogo para falar de 2e e de identificação pela arte.",
+      "date": "2025-08-21",
+      "classroomPick": true,
+      "stereotypeRisk": 2,
+      "pedagogyScore": 5,
+      "sections": [
+        {
+          "heading": "Sinopse",
+          "paragraphs": [
+            "A escola vê preguiça. A família vê vergonha. Ishaan vê peixes, planetas, letras que dançam. O diagnóstico, no filme, é dislexia — e o professor de arte é quem lê o que a prova não lê. Para a AH/SD, a fita é uma aula de dupla excepcionalidade: alto potencial em uma área, barreiras em outra, e uma instituição que só enxerga o déficit."
+          ]
+        },
+        {
+          "heading": "Comportamentos e estereótipos",
+          "paragraphs": [
+            "O sentimentalismo é alto. O valor pedagógico é mais alto ainda, sobretudo num país que confunde superdotação com nota dez."
+          ]
+        },
+        {
+          "heading": "Tensão com o \"mundo normal\"",
+          "paragraphs": [
+            "Trazer Ishaan para o debate brasileiro de AH/SD é recusar o recorte matemático. É lembrar Helena Antipoff e a tradição de que o potencial não se esgota no QI verbal. É dizer à imprensa que a criança que 'vai mal' pode ser exatamente a pauta, não o contraponto da pauta."
+          ]
+        },
+        {
+          "heading": "Mediação pedagógica",
+          "paragraphs": [
+            ""
+          ]
+        }
+      ],
+      "viewingGuide": [
+        {
+          "q": "O que a prova mede, e o que o desenho mede?",
+          "why": "Dois sistemas de valor no mesmo corpo."
+        },
+        {
+          "q": "Quando o internato vira cuidado, e quando vira descarte?",
+          "why": "A instituição que 'resolve' a criança difícil."
+        }
+      ],
+      "forFamily": "Filme longo, emocionante, indicado com mediação. Perguntar: o que nosso filho faz que a escola não sabe medir?",
+      "forTeacher": "Peça central de formação sobre 2e e avaliação. Trabalhar com o caderno de Ishaan, não só com o choro.",
+      "forPress": "Quando a pauta for 'superdotado', incluir a criança que não brilha na prova. Este filme é o argumento.",
+      "draft": true
+    },
+    {
+      "slug": "rain-man",
+      "title": "Rain Man",
+      "originalTitle": "Rain Man",
+      "year": 1988,
+      "country": "EUA",
+      "director": "Barry Levinson",
+      "format": "filme",
+      "genre": "Drama",
+      "duration": "133 min",
+      "domains": [
+        "matematica"
+      ],
+      "stereotypeIds": [
+        "savant-e-autismo",
+        "isolamento-como-destino"
+      ],
+      "still": "/stills/rain-man.jpg",
+      "kicker": "O estereótipo-fonte",
+      "excerpt": "O filme que ensinou o mundo a achar que autismo é contar cartas. Peça de museu do estigma — e material obrigatório de desmontagem.",
+      "date": "2025-07-08",
+      "stereotypeRisk": 5,
+      "pedagogyScore": 5,
+      "sections": [
+        {
+          "heading": "Sinopse",
+          "paragraphs": [
+            "Raymond Babbitt memoriza a lista telefônica, conta palitos, vence o cassino. Dustin Hoffman constrói um dos personagens mais imitados do século. O público saiu do cinema achando que tinha visto o autismo. Tinha visto o savantismo espetacularizado, a instituição, o irmão que só ama o talento quando ele dá dinheiro."
+          ]
+        },
+        {
+          "heading": "Comportamentos e estereótipos",
+          "paragraphs": [
+            "Para a AH/SD, Rain Man é o ancestral. Toda vez que uma reportagem pede à criança que recite dígitos, o fantasma de Raymond entra no quadro. O filme não é sobre superdotação. Virou, à força de citação, o figurino dela."
+          ]
+        },
+        {
+          "heading": "Tensão com o \"mundo normal\"",
+          "paragraphs": [
+            "Ensinar a história do olhar. Mostrar o filme como artefato de 1988, não como documentário. Separar autismo, savantismo e AH/SD em três colunas no quadro. Perguntar à turma de jornalismo: que pauta este filme ainda está escrevendo por nós?"
+          ]
+        },
+        {
+          "heading": "Mediação pedagógica",
+          "paragraphs": [
+            ""
+          ]
+        }
+      ],
+      "viewingGuide": [
+        {
+          "q": "O que Charlie ama em Raymond — o irmão ou o espetáculo?",
+          "why": "A exploração afetiva do 'dom'."
+        },
+        {
+          "q": "Que imagens deste filme ainda se repetem em telejornais?",
+          "why": "O estereótipo tem data e tem herdeiros."
+        }
+      ],
+      "forFamily": "Não é espelho. Se for assistir, assistir para discordar em voz alta.",
+      "forTeacher": "Aula zero de letramento midiático da deficiência e da AH/SD. Trabalho de desmontagem, não de identificação.",
+      "forPress": "Se a matéria precisa de uma criança que 'conta depressa demais', a matéria está em 1988. Reescrever.",
+      "draft": true
+    },
+    {
+      "slug": "o-homem-que-viu-o-infinito",
+      "title": "O Homem que Viu o Infinito",
+      "originalTitle": "The Man Who Knew Infinity",
+      "year": 2015,
+      "country": "Reino Unido",
+      "director": "Matthew Brown",
+      "format": "filme",
+      "genre": "Biográfico",
+      "duration": "108 min",
+      "domains": [
+        "matematica"
+      ],
+      "stereotypeIds": [
+        "padrao-homem-branco-stem",
+        "isolamento-como-destino",
+        "matematica-como-unica-area"
+      ],
+      "still": "/stills/infinito.jpg",
+      "kicker": "Intuição e império",
+      "excerpt": "Ramanujan em Cambridge: a Matemática como intuição, fé e racismo institucional. Um dos poucos filmes em que o gênio não é branco — e ainda assim precisa ser autorizado pelo branco.",
+      "date": "2025-06-15",
+      "classroomPick": true,
+      "stereotypeRisk": 2,
+      "pedagogyScore": 4,
+      "sections": [
+        {
+          "heading": "Sinopse",
+          "paragraphs": [
+            "Srinivasa Ramanujan chega a Cambridge com cadernos e sem provas. Hardy exige o método. O império exige o sotaque. A câmera trata a intuição indiana como milagre, e a prova europeia como civilização. Há ternura entre os dois homens; há também a hierarquia que o filme às vezes disfarça de amizade."
+          ]
+        },
+        {
+          "heading": "Comportamentos e estereótipos",
+          "paragraphs": [
+            "Para a AH/SD em Matemática, a fita é dupla. Mostra um perfil que o cânone hollywoodiano raramente admite. E mostra o custo de só ser reconhecido quando a instituição metropolitana assina embaixo."
+          ]
+        },
+        {
+          "heading": "Tensão com o \"mundo normal\"",
+          "paragraphs": [
+            "Ler o filme contra a ideia de que o talento 'bruto' precisa ser domesticado pelo Norte. A caderneta de Ramanujan já era Matemática. O contra-enquadramento brasileiro escreve: que cadernetas a escola não sabe ler porque não vieram no formato da prova?"
+          ]
+        },
+        {
+          "heading": "Mediação pedagógica",
+          "paragraphs": [
+            ""
+          ]
+        }
+      ],
+      "viewingGuide": [
+        {
+          "q": "Quem tem o direito de chamar a intuição de Matemática?",
+          "why": "Autoridade acadêmica como enquadramento."
+        },
+        {
+          "q": "O que o filme faz com a Índia quando Ramanujan está em Cambridge?",
+          "why": "O fora de campo colonial."
+        }
+      ],
+      "forFamily": "Conversar sobre reconhecimento: o talento que só vale quando a instituição certa confirma.",
+      "forTeacher": "Ótimo em História da Matemática e em discussões de currículo eurocentrado.",
+      "forPress": "Evitar 'o Ramanujan brasileiro'. Preferir discutir quem autoriza o talento no Brasil — olimpíada, vestibular, professor, família.",
+      "draft": true
+    },
+    {
+      "slug": "flores-para-algernon",
+      "title": "Flores para Algernon",
+      "originalTitle": "Flowers for Algernon",
+      "year": 1966,
+      "country": "EUA",
+      "director": "Daniel Keyes",
+      "format": "livro",
+      "genre": "Ficção científica",
+      "duration": "311 p.",
+      "domains": [
+        "ciencias",
+        "verbal"
+      ],
+      "stereotypeIds": [
+        "prodigio-como-espetaculo",
+        "sofrimento-como-preco",
+        "isolamento-como-destino"
+      ],
+      "still": "/stills/algernon.jpg",
+      "kicker": "Resenha",
+      "excerpt": "O diário de Charlie Gordon é a mais clara lição literária sobre o que acontece quando a inteligência vira experimento — e o sujeito, vitrine.",
+      "date": "2026-06-18",
+      "classroomPick": true,
+      "stereotypeRisk": 3,
+      "pedagogyScore": 5,
+      "sections": [
+        {
+          "heading": "O enquadramento",
+          "paragraphs": [
+            "Charlie começa o relato com a grafia de quem a escola classificou como deficiente. A cirurgia que o empurra para o gênio — e, depois, de volta — trata o QI como um botão. O rato Algernon é o espelho: inteligência medida, publicada, aplaudida, descartada.",
+            "O livro não filma a lousa. Escreve o interior. Por isso é tão útil ao letramento: o leitor vê o enquadramento nascer na linguagem. Quando Charlie 'melhora', o texto também 'melhora'. O potencial vira estilo. A queda, o contrário."
+          ]
+        },
+        {
+          "heading": "Contra-enquadramento",
+          "paragraphs": [
+            "Ler Algernon contra a ideia de que o valor da pessoa sobe e desce com o escore. Charlie pede, o tempo todo, o que a AH/SD brasileira ainda disputa: ser visto além da medida. A amizade, o trabalho, o constrangimento sexual, a raiva de ter sido cobaia — nada disso cabe no gráfico da clínica.",
+            "Para a plataforma, o livro é dispositivo de sala e de casa. Não pede identificação com o gênio. Pede recusa do espetáculo. O ramo científico (a cirurgia, o paper, o congresso) é o mesmo gesto da pauta que abre pelo QI."
+          ]
+        }
+      ],
+      "viewingGuide": [],
+      "forFamily": "Ler em voz alta os primeiros relatórios e perguntar: o que Charlie queria, além de 'ficar esperto'?",
+      "forTeacher": "Excelente para discutir ética da avaliação, linguagem e a diferença entre deficiência intelectual, AH/SD e o fantasma do 'aumento de QI'.",
+      "forPress": "Não usar Charlie como metáfora de 'tratamento para superdotados'. O livro denuncia a medida, não a recomenda.",
+      "draft": true
+    },
+    {
+      "slug": "o-homem-que-calculava",
+      "title": "O Homem que Calculava",
+      "originalTitle": "O Homem que Calculava",
+      "year": 1938,
+      "country": "Brasil",
+      "director": "Malba Tahan",
+      "format": "livro",
+      "genre": "Ficção",
+      "duration": "300 p.",
+      "domains": [
+        "matematica"
+      ],
+      "stereotypeIds": [
+        "matematica-como-unica-area",
+        "prodigio-como-espetaculo"
+      ],
+      "still": "/stills/homem-que-calculava.jpg",
+      "kicker": "Resenha",
+      "excerpt": "Beremiz Samir calcula no deserto o que a escola brasileira ainda trata como milagre: a Matemática como ofício, hospitalidade e invenção — não como destino de gênio solitário.",
+      "date": "2026-06-20",
+      "classroomPick": true,
+      "stereotypeRisk": 2,
+      "pedagogyScore": 5,
+      "sections": [
+        {
+          "heading": "O enquadramento",
+          "paragraphs": [
+            "Malba Tahan (Júlio César de Mello e Souza) inventa um calculista bagdali cuja fama viaja com as caravanas. Cada capítulo é um problema: 35 camelos, 8 pães, a herança das 17 ovelhas. O enquadramento possível é o do prodígio orientalista — o homem que 'vê' números como outros vêem o céu.",
+            "Há exotismo, sim. Há também uma pedagogia brasileira disfarçada de conto: a Matemática se ensina no vínculo, na hospedagem, no desafio lançado em voz alta. Beremiz não está internado. Está em trânsito."
+          ]
+        },
+        {
+          "heading": "Contra-enquadramento",
+          "paragraphs": [
+            "Ler o livro contra Hollywood. Aqui a Matemática não cobra loucura, não isola, não disputa guarda. Cobra hospitalidade. O calculista tem parceiro de viagem, tem nome, tem ética (recusa o prêmio injusto). Para docentes de Matemática e para famílias de AH/SD, é o antídoto em português ao cânone do quadro-negro americano.",
+            "O risco residual é tratar Beremiz como 'o gênio árabe' e parar aí. Melhor perguntar: que problemas a escola brasileira conta em voz alta? Que aluno calcula depressa demais e vira espetáculo, em vez de interlocutor?"
+          ]
+        }
+      ],
+      "viewingGuide": [],
+      "forFamily": "Resolver um capítulo junto — em voz alta, sem cronômetro. AAH/SD em Matemática pede conversa, não palco.",
+      "forTeacher": "Ponto de partida para História da Matemática no Brasil e para desmontar o mito de que o talento numérico só aparece em olimpíada.",
+      "forPress": "Evitar 'o Ramanujan brasileiro em versão infantil'. Preferir: uma pedagogia nacional da Matemática que antecede o QI como manchete.",
+      "draft": true
+    },
+    {
+      "slug": "o-estranho-caso-do-cao-morto",
+      "title": "O Estranho Caso do Cão Morto",
+      "originalTitle": "The Curious Incident of the Dog in the Night-Time",
+      "year": 2003,
+      "country": "Reino Unido",
+      "director": "Mark Haddon",
+      "format": "livro",
+      "genre": "Ficção",
+      "duration": "272 p.",
+      "domains": [
+        "matematica",
+        "savant-autismo-e-ah-sd",
+        "isolamento-e-sofrimento"
+      ],
+      "stereotypeIds": [
+        "savant-e-autismo",
+        "isolamento-como-destino",
+        "familia-como-obstaculo",
+        "prodigio-como-espetaculo",
+        "padrao-homem-branco-stem"
+      ],
+      "still": "/stills/cao-morto.jpg",
+      "kicker": "Resenha",
+      "excerpt": "Christopher Boone resolve um crime e um sistema de equações. O livro que a imprensa leu como 'o autista-gênio' pede, na verdade, que se separem três coisas que o cinema insiste em fundir. ",
+      "date": "2026-06-22",
+      "stereotypeRisk": 4,
+      "pedagogyScore": 4,
+      "sections": [
+        {
+          "heading": "O enquadramento",
+          "paragraphs": [
+            "O narrador conta o mundo em listas, diagramas e primos. A capa e a recepção crítica colaram o livro ao autismo, embora Haddon tenha recusado o diagnóstico como etiqueta de marketing. O enquadramento que vingou é o mesmo de Rain Man: o jovem que não olha nos olhos e, em compensação, vê o número.",
+            "A Matemática (A-levels, o triângulo de Pascal, o apêndice) funciona como prova de interioridade. Sem ela, o narrador seria 'só' estranho. Com ela, vira prodígio. É o pedágio savant."
+          ]
+        },
+        {
+          "heading": "Contra-enquadramento",
+          "paragraphs": [
+            "Ler separando: autismo, AH/SD, savantismo. Christopher pode ser lido como 2e — e essa leitura só vale se não apagar nem o autismo sem espetáculo nem a AH/SD sem traço savant. A viagem de Swindon a Londres, o pai que mente, a mãe que reaparece: o livro é também um romance familiar, não um laudo.",
+            "Para a plataforma, serve como alerta à imprensa e à escola. Toda vez que um aluno 'não socializa' e 'manda bem em conta' vira este narrador, o cânone ganhou de novo. Pausar no apêndice matemático e perguntar: isso prova quem ele é, ou prova o que o leitor esperava?"
+          ]
+        }
+      ],
+      "viewingGuide": [],
+      "forFamily": "Se a criança se reconhecer, separar com ela: 'isto é o jeito do personagem, não o destino de quem calcula depressa'.",
+      "forTeacher": "Útil para discutir 2e e o vício de usar a Matemática como prova de humanidade. Não usar o livro como cartilha de autismo.",
+      "forPress": "Não chamar de 'o livro do autista-gênio'. Preferir: romance que a recepção fundiu três fenômenos distintos — exatamente o quadro que esta plataforma recusa.",
+      "draft": false
+    },
+    {
+      "slug": "radical",
+      "title": "Radical",
+      "originalTitle": "Radical",
+      "year": 2023,
+      "country": "México",
+      "director": "Christopher Zalla",
+      "format": "filme",
+      "genre": "Comédia Dramática Biográfica",
+      "duration": "2h 7m",
+      "domains": [
+        "matematica-como-ascencao-social",
+        "familia-como-obstaculo",
+        "underachievement",
+        "superdotacao-feminina"
+      ],
+      "stereotypeIds": [],
+      "still": "/stills/radical.jpg",
+      "kicker": "Análise",
+      "excerpt": "Em uma escola pública na fronteira entre o México e os Estados Unidos, um professor decide propor problemas em vez de respostas prontas e, ao fazê-lo, revela duas alunas cujo potencial  permanecia invisível sob camadas distintas de silêncio. Radical trata da invisibilidade da superdotação feminina, do fenômeno do underachievement, dos estereótipos de gênero que moldam a expressão pública da inteligência e do papel da mediação pedagógica na conversão de habilidade latente em desempenho reconhecido.",
+      "date": "2026-08-24",
+      "stereotypeRisk": 3,
+      "pedagogyScore": 5,
+      "offerHeading": "O que este filme oferece",
+      "sections": [
+        {
+          "heading": "Sinopse",
+          "paragraphs": [
+            "O filme reconstrói a história real do professor Sergio Juárez Correa e de seus alunos em uma escola pública mexicana marcada pela precariedade material, cujo desempenho excepcional em uma avaliação nacional desafiou as expectativas depositadas sobre aquele contexto. A narrativa acompanha, entre outros estudantes, duas meninas cujas trajetórias de reconhecimento tomam caminhos diferentes, e é justamente nessa diferença que o filme constrói sua reflexão mais consistente sobre identificação e invisibilidade.",
+            ""
+          ]
+        },
+        {
+          "heading": "Comportamentos e estereótipos",
+          "paragraphs": [
+            "O filme apresenta dois perfis femininos que ilustram formas distintas de manifestação da superdotação matemática. Paloma é uma menina quieta, que vive com o pai doente em uma casa improvisada próxima a um lixão. Ali, constrói o próprio telescópio com materiais descartados e domina noções de matemática e astronomia de forma autodidata, sem que essa competência produza qualquer visibilidade social. Lupe, por sua vez, também pobre, formula durante uma excursão escolar uma pergunta filosófica que paralisa a turma: \"Você é uma filósofa, como John Stuart Mill\", reconhece Sergio de imediato. A partir desse momento, Lupe recebe do professor uma indicação de leitura na biblioteca da universidade local, e o filme lhe atribui a representação pública da superdotação feminina naquele grupo.",
+            "Sob a perspectiva de Krutetskii, Paloma encarna a forma mais pura do mathematical cast of mind: a necessidade constante de matematizar o ambiente, de enxergar estruturas onde outros veem apenas superfície. Lupe, por sua vez, representa um talento de domínio distinto, igualmente invisível ao sistema, ainda que ambos os casos, como observam Santos et al. (2023), descrevam um comprometimento com a tarefa e uma motivação canalizada e persistente para um problema específico, à espera apenas do gesto de reconhecimento pedagógico para emergir."
+          ]
+        },
+        {
+          "heading": "Tensão com o \"mundo normal\"",
+          "paragraphs": [
+            "A dimensão de gênero constitui o elemento mais original e o mais explorado pela narrativa. O número de meninas identificadas é consideravelmente menor do que o de meninos atendidos, e as meninas do filme precisam apresentar outros atributos, como a introspecção ou uma pergunta pontual, para serem enxergadas. A quietude de Paloma e a pergunta pontual de Lupe são, antes de qualquer coisa, comportamentos socialmente generificados: meninas são culturalmente encorajadas à contenção, à modéstia e à não exposição intelectual como formas de pertencimento social.",
+            "Tanto o pai de Paloma quanto a mãe de Lupe desencorajam ativamente o aprofundamento nos estudos, o que reforça essa leitura com crueza: é forçada a abandonar a escola para cuidar do irmão mais novo. O destino de Lupe no filme sinaliza que o reconhecimento pedagógico, quando não acompanhado de condições materiais e familiares de sustentação, não é suficiente para impedir a interrupção da trajetória escolar.",
+            ""
+          ]
+        },
+        {
+          "heading": "Mediação pedagógica",
+          "paragraphs": [
+            "O professor propõe perguntas abertas, recusa respostas prontas e organiza a sala como território de investigação coletiva. Essa postura corresponde ao papel do professor na teoria de Renzulli: não transmissor de conhecimento, mas mentor e tutor que organiza atividades de enriquecimento progressivo, da exploração inicial (Tipo I) ao desenvolvimento de métodos (Tipo II) e à resolução autônoma de problemas reais (Tipo III). A aprovação no exame nacional é exatamente essa culminância.",
+            "Sob uma leitura vigotskiana, Sergio não ensina Paloma e Lupe. Ele reconhece o que elas já sabem e remove os obstáculos que impedem esse saber de se manifestar, operando precisamente na Zona de Desenvolvimento Proximal (Vygotsky, 1978)"
+          ]
+        }
+      ],
+      "viewingGuide": [],
+      "forFamily": "Radical nomeia um sinal de alerta que muitas famílias não sabem reconhecer: a criança que constrói seu próprio telescópio com sucata pode estar comunicando, à sua maneira, um potencial que não se anuncia com palavras. A ausência de premiações ou destaque escolar não indica ausência de habilidade.",
+      "forTeacher": "O filme ilustra uma prática concreta e transponível para qualquer sala de aula: propor perguntas sem resposta óbvia e observar quem se detém sobre elas. A identificação, aqui, nasce da abertura do professor à pergunta que o aluno formula, e não de um teste padronizado.",
+      "forPress": "Radical contraria o enquadramento midiático que associa superdotação a precocidade performática e a ambientes privilegiados. Ao situar a excepcionalidade dentro da precariedade e ao dar rosto e nome à desigualdade de gênero na identificação, o filme oferece um contraponto direto às narrativas de \"gênio isolado\" que costumam dominar a cobertura jornalística sobre o tema.",
+      "understandSlug": "invisibilidade"
+    },
+    {
+      "slug": "el-jeremias",
+      "title": "El Jeremías",
+      "originalTitle": "El Jeremías",
+      "year": 2015,
+      "country": "México",
+      "director": "Anwar Safa",
+      "format": "filme",
+      "genre": "Comédia dramática",
+      "duration": "95 min",
+      "domains": [
+        "prodigio-como-espetaculo",
+        "familia-como-obstaculo"
+      ],
+      "stereotypeIds": [],
+      "still": "idb:el-jeremias",
+      "kicker": "Análise",
+      "excerpt": "",
+      "date": "2026-09-03",
+      "draft": false,
+      "stereotypeRisk": 3,
+      "pedagogyScore": 3,
+      "offerHeading": "O que este filme oferece",
+      "sections": [
+        {
+          "heading": "Sinopse",
+          "paragraphs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Comportamentos e estereótipos",
+          "paragraphs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Tensão com o \"mundo normal\"",
+          "paragraphs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Mediação pedagógica",
+          "paragraphs": [
+            ""
+          ]
+        }
+      ],
+      "viewingGuide": [],
+      "forFamily": "",
+      "forTeacher": "",
+      "forPress": "",
+      "references": [
+        ""
+      ]
+    },
+    {
+      "slug": "o-homem-que-copiava",
+      "title": "O Homem que Copiava",
+      "originalTitle": "O Homem que Copiava",
+      "year": 2003,
+      "country": "Brasil",
+      "director": "Jorge Furtado",
+      "format": "filme",
+      "genre": "Comédia/Drama",
+      "duration": "123 min",
+      "domains": [
+        "verbal",
+        "matematica-como-ascencao-social"
+      ],
+      "stereotypeIds": [],
+      "still": "idb:o-homem-que-copiava",
+      "kicker": "Análise",
+      "excerpt": "",
+      "date": "2026-09-03",
+      "draft": false,
+      "stereotypeRisk": 3,
+      "pedagogyScore": 3,
+      "offerHeading": "O que este filme oferece",
+      "sections": [
+        {
+          "heading": "Sinopse",
+          "paragraphs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Comportamentos e estereótipos",
+          "paragraphs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Tensão com o \"mundo normal\"",
+          "paragraphs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Mediação pedagógica",
+          "paragraphs": [
+            ""
+          ]
+        }
+      ],
+      "viewingGuide": [],
+      "forFamily": "",
+      "forTeacher": "",
+      "forPress": "",
+      "references": [
+        ""
+      ]
+    },
+    {
+      "slug": "moebius",
+      "title": "Moebius",
+      "originalTitle": "Moebius",
+      "year": 1996,
+      "country": "Argentina",
+      "director": "Gustavo Mosquera",
+      "format": "filme",
+      "genre": "Ficção científica",
+      "duration": "88 min",
+      "domains": [
+        "matematica"
+      ],
+      "stereotypeIds": [],
+      "still": "idb:moebius",
+      "kicker": "Análise",
+      "excerpt": "",
+      "date": "2026-09-03",
+      "draft": false,
+      "stereotypeRisk": 3,
+      "pedagogyScore": 3,
+      "offerHeading": "O que este filme oferece",
+      "sections": [
+        {
+          "heading": "Sinopse",
+          "paragraphs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Comportamentos e estereótipos",
+          "paragraphs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Tensão com o \"mundo normal\"",
+          "paragraphs": [
+            ""
+          ]
+        },
+        {
+          "heading": "Mediação pedagógica",
+          "paragraphs": [
+            ""
+          ]
+        }
+      ],
+      "viewingGuide": [],
+      "forFamily": "",
+      "forTeacher": "",
+      "forPress": "",
+      "references": [
+        ""
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "slug": "ah-sd",
+      "term": "AH/SD",
+      "body": "Altas Habilidades/Superdotação. Nomenclatura adotada pela educação especial brasileira para designar o alto potencial em uma ou mais áreas — intelectual, acadêmica, criativa, artística, psicomotora ou de liderança. Não se reduz a QI, medalha olímpica ou desempenho escolar linear."
+    },
+    {
+      "slug": "aceleracao",
+      "term": "Aceleração",
+      "body": "Medida educacional que antecipa etapas ou conteúdos para o estudante cujo ritmo excede o da turma. Direito, não prêmio. Distingue-se do palco: acelerar não é exibir."
+    },
+    {
+      "slug": "contra-enquadramento",
+      "term": "Contra-enquadramento",
+      "body": "Reconstituição do que um enquadramento cortou. No caso da AH/SD, devolve área específica, classe, raça, gênero, pares, tédio, vínculo e política educacional ao quadro que o estereótipo esvaziou."
+    },
+    {
+      "slug": "dupla-excepcionalidade",
+      "term": "Dupla excepcionalidade (2e)",
+      "body": "Coexistência, no mesmo sujeito, de alto potencial e de uma barreira — aprendizagem, atenção, sensorial, física ou psíquica. A escola e o cinema costumam ver só um dos polos."
+    },
+    {
+      "slug": "educomunicacao",
+      "term": "Educomunicação",
+      "body": "Campo latino-americano (Soares, Citelli) que recusa o espectador passivo e trata a mídia como território de formação. Nesta plataforma, não é 'usar filme na aula': é disputar o que a tela já ensina."
+    },
+    {
+      "slug": "enquadramento",
+      "term": "Enquadramento (framing)",
+      "body": "Seleção e saliência de um aspecto da realidade (Entman): define problema, causa, juízo moral e remédio. Um lead de olimpíada faz as quatro operações em quatro parágrafos."
+    },
+    {
+      "slug": "enriquecimento",
+      "term": "Enriquecimento",
+      "body": "Ampliação qualitativa do currículo — profundidade, complexidade, produção — sem necessariamente pular série. Complementa a aceleração; não a substitui automaticamente."
+    },
+    {
+      "slug": "fora-de-campo",
+      "term": "Fora de campo",
+      "body": "O que a imagem não mostra e, ainda assim, organiza o sentido. Na AH/SD cinematográfica: a criança que não é branca, não é menino, não é da Matemática, não é de classe média urbana."
+    },
+    {
+      "slug": "hiperexcitabilidade",
+      "term": "Hiperexcitabilidade",
+      "body": "Conceito de Dabrowski para intensidades psíquicas (psicomotora, sensorial, intelectual, imaginativa, emocional) frequentes em pessoas de alto potencial. Não é patologia, embora o cinema as filme como tal."
+    },
+    {
+      "slug": "identificacao",
+      "term": "Identificação (educacional)",
+      "body": "Processo escolar e familiar de reconhecer o alto potencial. Distinto do diagnóstico clínico e da 'descoberta' hollywoodiana no corredor de MIT. No Brasil, ainda disputado em censo, formação docente e material."
+    },
+    {
+      "slug": "invisibilidade",
+      "term": "Invisibilidade",
+      "body": "Apagamento do estudante com AH/SD — sobretudo meninas, estudantes negros, indígenas, periféricos, 2e e talentos fora das exatas. O cânone cinematográfico treina esse apagamento."
+    },
+    {
+      "slug": "letramento-midiatico",
+      "term": "Letramento midiático",
+      "body": "Capacidade de ler, avaliar e produzir sentidos na mídia (Buckingham; UNESCO). Aqui: formar o olhar do espectador para os frames da AH/SD, não apenas 'consumir com moderação'."
+    },
+    {
+      "slug": "qi",
+      "term": "QI",
+      "body": "Quociente de inteligência: uma medida, não a definição de AH/SD. Abrir matéria ou ficha pelo número é o enquadramento do espetáculo. A legislação brasileira não reduz superdotação ao QI."
+    },
+    {
+      "slug": "savantismo",
+      "term": "Savantismo",
+      "body": "Desempenho excepcional circunscrito, muitas vezes associado a condições do neurodesenvolvimento. Não é AH/SD. Não é autismo. Rain Man fundiu os três e educou o olhar leigo."
+    },
+    {
+      "slug": "superdotacao",
+      "term": "Superdotação",
+      "body": "Termo corrente no Brasil, hoje oficialmente articulado a 'altas habilidades'. Carrega estigma de soberba e de milagre. A plataforma o usa com a dupla AH/SD, nunca como sinônimo de gênio hollywoodiano."
+    },
+    {
+      "slug": "tres-aneis",
+      "term": "Três anéis (Renzulli)",
+      "body": "Concepção de giftedness como interseção de habilidade acima da média, criatividade e comprometimento com a tarefa. Útil para deslocar o mito do QI isolado e o do prodígio-palco."
+    }
+  ],
+  "articles": [
+    {
+      "slug": "o-cinema-como-pedagogia-informal",
+      "kicker": "Ensaio",
+      "title": "O que o cinema ensina (e desensina) sobre AH/SD",
+      "date": "2026-04-02",
+      "readMinutes": 9,
+      "featured": true,
+      "excerpt": "Antes da ficha da escola, a criança superdotada já foi educada pela tela. O cânone do gênio é uma pedagogia informal — e quase nunca confessada.",
+      "sections": [
+        {
+          "heading": "A sala escura como primeira apostila",
+          "paragraphs": [
+            "Familiares, docentes e jornalistas chegam à AH/SD com um repertório que não veio da legislação nem de Renzulli. Veio de Rain Man, de Uma Mente Brilhante, de Gênio Indomável, de uma série em que a menina vê o tabuleiro no teto. O cinema é a apostila informal da superdotação. Opera por repetição: um elenco curto, um conjunto estável de enquadramentos, uma promessa de drama.",
+            "Educomunicação, no sentido que esta plataforma assume, não é 'usar filme na aula'. É admitir que a mídia já ensina — e disputar esse ensino. O letramento midiático da AH/SD começa quando o espectador percebe que está sendo formado."
+          ]
+        },
+        {
+          "heading": "O que se repete",
+          "paragraphs": [
+            "Três operações voltam. A primeira cola o alto potencial à exceção clínica (loucura, savantismo, vício). A segunda isola o sujeito: não há pares, há palco. A terceira escolhe um corpo — homem, branco, urbano, das exatas — e o apresenta como natureza do gênio. A Matemática, nesse esquema, não é uma área: é o atalho visual do intelecto.",
+            "Nada disso é conspiração de roteiristas. É economia narrativa. O estereótipo economiza tempo de tela. O contra-enquadramento, por isso, precisa de tempo de leitura. Daí uma plataforma, e não um fio de rede social."
+          ]
+        },
+        {
+          "heading": "Desestigmatizar é um trabalho de olhar",
+          "paragraphs": [
+            "Desestigmatizar não pede filmes 'positivos'. Pede espectadores capazes de ver o quadro e o fora de campo. Uma criança com AH/SD que se reconhece em Mary Adler precisa também reconhecer o que Mary não é: não é o único perfil, não é só Matemática, não é um processo de guarda. O letramento é essa dobra.",
+            "Os três artigos que antecedem este produto técnico descrevem os enquadramentos na cobertura jornalística e na comunicação institucional. Este texto, e a plataforma que o abriga, respondem com ferramenta. A cultura popular é a porta. O olhar instruído é o método."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "contra-enquadramento-e-educomunicacao",
+      "kicker": "Método",
+      "title": "Contra-enquadramento: de Entman à educomunicação",
+      "date": "2026-03-20",
+      "readMinutes": 11,
+      "excerpt": "Enquadrar é selecionar. Contra-enquadrar é devolver ao quadro o que a seleção expulsou. No caso da AH/SD, o expulsado é a diversidade de perfis — e a própria Matemática como área, não como metáfora.",
+      "sections": [
+        {
+          "heading": "O que um quadro faz",
+          "paragraphs": [
+            "Robert Entman descreveu o framing como seleção e saliência: definir um problema, apontar uma causa, fazer um juízo moral, sugerir um remédio. A matéria sobre o 'menino gênio da olimpíada' faz as quatro coisas em quatro parágrafos. Problema: a criança é diferente. Causa: um dom. Juízo: milagre ou risco. Remédio: palco, ou silêncio.",
+            "O contra-enquadramento não é a opinião contrária. É a reconstituição do que foi cortado. Pares. Área específica. Classe. Raça. Gênero. Política educacional. Tédio. Vínculo. A criança que não brilha em prova cronometrada."
+          ]
+        },
+        {
+          "heading": "Por que o cinema",
+          "paragraphs": [
+            "A imprensa e a comunicação institucional já foram objeto dos artigos anteriores. O cinema entra aqui porque treina o olhar com mais força do que o lead. Duas horas de Uma Mente Brilhante educam mais do que uma cartilha. Disputar a sala escura é disputar a pré-compreensão com que o jornalista sentará, depois, diante da pauta.",
+            "A educomunicação (Soares, Citelli e o campo latino-americano) recusa o espectador passivo. Esta plataforma toma filmes e séries como textos a serem lidos com método — roteiro de perguntas, índices de risco e de potencial pedagógico, destinação por público."
+          ]
+        },
+        {
+          "heading": "Como operar",
+          "paragraphs": [
+            "Cada ficha do catálogo faz o mesmo gesto: nomear o enquadramento, apontar o dano, oferecer o contra-campo, devolver perguntas. Não há nota de qualidade cinematográfica. Há dois índices: risco de estereótipo e potencial pedagógico. Um filme pode ser 'ruim' para identificar e 'bom' para desmontar. Rain Man é os dois.",
+            "O método cabe na redação, na reunião de pais e na licenciatura. É portátil de propósito. O produto técnico de um mestrado profissional deve poder sair do repositório."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "a-matematica-no-fora-de-campo",
+      "kicker": "Área",
+      "title": "A Matemática que o cinema mostra (e a que omite)",
+      "date": "2026-02-05",
+      "readMinutes": 8,
+      "excerpt": "O cânone gifted é um cânone de lousa. Isso parece um elogio à Matemática. É o contrário: reduz a área a milagre e apaga todas as outras.",
+      "sections": [
+        {
+          "heading": "A lousa como ícone",
+          "paragraphs": [
+            "Conte as lousas deste catálogo. Elas substituem o pensamento. A Matemática vira caligrafia acelerada, giz, janela riscada, olimpíada. Quase nunca vira erro, conjectura, grupo de estudo, professora do 6º ano, caderno furado. O cinema precisa de um ícone. A lousa é barata e legível.",
+            "A especificidade da área — o que a pesquisa que origina esta plataforma sustenta — desaparece nesse ícone. Matemática vira sinônimo de gênio, e gênio vira sinônimo de Matemática. As duas perdem."
+          ]
+        },
+        {
+          "heading": "Quem não entra no quadro",
+          "paragraphs": [
+            "A criança superdotada em artes, em liderança, em psicomotricidade, em linguagem. A menina da rede pública do Distrito Federal que resolve depressa demais e vira 'problema de comportamento'. O estudante 2e. O adulto que só foi identificado porque a filha o foi. O cânone não os filma. A imprensa, treinada pelo cânone, também não.",
+            "Por isso o catálogo inclui Matilda e Como Estrelas na Terra ao lado de Nash e Ramanujan. Não para negar a Matemática. Para impedi-la de ser a única metáfora disponível do intelecto."
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "a-ausencia-brasileira",
+      "kicker": "Fora de campo",
+      "title": "Por que o cinema brasileiro quase não mostra a criança superdotada",
+      "date": "2026-01-09",
+      "readMinutes": 7,
+      "excerpt": "A invisibilidade da AH/SD na tela nacional não é um detalhe de repertório. É um dado. E dialoga com a invisibilidade da área na escola e na pauta.",
+      "sections": [
+        {
+          "heading": "O que não se filma",
+          "paragraphs": [
+            "O catálogo desta plataforma é, confessadamente, estrangeiro. Não por anglofilia. Por ausência. O cinema brasileiro filmou a infância de muitas maneiras — a rua, o internato, o morro, a classe média do cinema de retomada — e quase nunca filmou o alto potencial cognitivo como questão. Quando o 'aluno brilhante' aparece, é nota de passagem, não drama.",
+            "Essa lacuna rima com a política. A AH/SD brasileira ainda disputa nome, censo, formação docente, material. Uma cinematografia que não vê o fenômeno ajuda a escola a não vê-lo. A imprensa, no meio, copia os frames de Hollywood porque são os únicos à mão."
+          ]
+        },
+        {
+          "heading": "O que fazer com a lacuna",
+          "paragraphs": [
+            "Não esperar o filme nacional canônico. Ler o cânone importado com método brasileiro: perguntar pela escola pública, pela legislação, por Antipoff, pelas olimpíadas como política, pelas meninas negras que Hidden Figures filmou e que as nossas telas ainda devem.",
+            "A ausência também é um convite a quem filma, escreve e pauta. Esta plataforma não substitui esse filme. Prepara o olhar que poderá recebê-lo sem transformá-lo, de novo, em palco."
+          ]
+        }
+      ]
+    }
+  ],
+  "stereotypes": [
+    {
+      "slug": "genio-e-loucura",
+      "name": "Gênio e loucura",
+      "kicker": "O par mais antigo",
+      "summary": "A inteligência extrema aparece colada à instabilidade psíquica, como se o talento cobrasse um pedágio de sofrimento mental. O filme ganha drama; a pessoa com AH/SD herda um destino clínico.",
+      "harm": "Familiares passam a vigiar o filho como um risco. Escolas tratam o alto desempenho como sintoma. A imprensa ama o binômio porque ele fecha a pauta em uma frase.",
+      "counter": "Separar diagnóstico, personalidade e alto potencial. Mostrar regulação emocional, rede de apoio e a banalidade de uma vida cognitiva intensa que não desemboca em colapso.",
+      "howItLooks": [
+        "Equações na janela, insônia, recusa de alimento",
+        "O gênio que 'quebra' no terceiro ato",
+        "A terapia como único antídoto ao intelecto"
+      ]
+    },
+    {
+      "slug": "isolamento-como-destino",
+      "name": "Isolamento como destino",
+      "kicker": "A solidão obrigatória",
+      "summary": "O personagem superdotado não tem pares. A câmera confirma: ele está sempre um plano à frente, literalmente sozinho no quadro. A sociabilidade vira evidência de mediocridade.",
+      "harm": "Crianças com AH/SD aprendem que amizade é incompatível com o potencial. Adultos justificam o bullying como 'preço de ser diferente'.",
+      "counter": "Mostrar grupos de pares, mentoria horizontal, o alívio de encontrar alguém que pensa no mesmo ritmo. O pertencimento não dilui o talento.",
+      "howItLooks": [
+        "O pátio lotado e o protagonista no canto",
+        "A frase 'ninguém me entende'",
+        "O sucesso acadêmico como substituto de vínculo"
+      ]
+    },
+    {
+      "slug": "savant-e-autismo",
+      "name": "Savant, autismo e AH/SD no mesmo corpo",
+      "kicker": "A fusão clínica",
+      "summary": "Cinema e televisão fundem savantismo, autismo e superdotação num único tipo: o calculador socialmente inepto. Três fenômenos distintos viram um só figurino.",
+      "harm": "Pessoas autistas sem desempenho espetacular desaparecem. Pessoas com AH/SD sem traço savant são lidas como 'falsas'. A dupla excepcionalidade vira clichê, não clínica.",
+      "counter": "Nomear o que se está vendo. Distinguir 2e, autismo e desempenho excepcional. Recusar o número de telefone memorizado como prova de humanidade.",
+      "howItLooks": [
+        "Contagem de palitos, cartas, dígitos de pi",
+        "A fala monótona como atalho de caracterização",
+        "O 'dom' que justifica o abandono afetivo"
+      ]
+    },
+    {
+      "slug": "prodigio-como-espetaculo",
+      "name": "O prodígio como espetáculo",
+      "kicker": "A criança no palco",
+      "summary": "A infância superdotada existe para ser exibida: olimpíadas, palcos, bancas, câmeras. O olhar adulto consome o feito e ignora o sujeito.",
+      "harm": "A criança aprende a valer pelo produto. A escola acelera sem acolher. A família disputa a guarda do talento, não da pessoa.",
+      "counter": "Devolver o fora de campo: brincar, tediar, errar, ter amigos fora da área. A aceleração pode ser direito; o palco não é política pública.",
+      "howItLooks": [
+        "A plateia que aplaude a conta de cabeça",
+        "O close na mão que escreve depressa demais",
+        "O título 'a criança mais inteligente do país'"
+      ]
+    },
+    {
+      "slug": "padrao-homem-branco-stem",
+      "name": "O padrão homem-branco-STEM",
+      "kicker": "Quem pode ser gênio",
+      "summary": "O gênio cinematográfico é, por default, homem, branco, urbano e das ciências exatas. Mulheres, pessoas negras, indígenas e do Sul global entram como exceção heroica ou não entram.",
+      "harm": "Meninas e estudantes periféricos não se reconhecem. A Matemática escolar herda um elenco. A imprensa replica o casting de Hollywood ao escolher fontes.",
+      "counter": "Pluralizar o elenco cognitivo: Hidden Figures, Ramanujan, Akeelah, as meninas de olimpíadas brasileiras. Tratar a regra como construção, não como natureza.",
+      "howItLooks": [
+        "O quadro-negro e o homem de paletó",
+        "A única mulher da equipe como 'exceção brilhante'",
+        "A biografia europeia como medida do gênio"
+      ]
+    },
+    {
+      "slug": "sofrimento-como-preco",
+      "name": "O sofrimento como preço",
+      "kicker": "Nada vem de graça",
+      "summary": "Toda narrativa de alto potencial cobra uma fatura: abandono, vício, exploração, morte da mãe, professor sádico. O talento precisa doer para ser crível.",
+      "harm": "Naturaliza a negligência. Famílias sentem que proteger o filho seria 'amolecê-lo'. A escola confunde rigor com violência.",
+      "counter": "Mostrar exigência com cuidado. Há filmes em que o adulto competente não é um carrasco. O contra-enquadramento é este: o potencial floresce com vínculo, não apesar dele.",
+      "howItLooks": [
+        "O treino até o desmaio",
+        "A frase 'é para o seu bem'",
+        "O luto como motor da genialidade"
+      ]
+    },
+    {
+      "slug": "matematica-como-unica-area",
+      "name": "A Matemática como única área",
+      "kicker": "O recorte que apaga o resto",
+      "summary": "Quando o cinema representa AH/SD, recorre quase sempre à Matemática, ao xadrez ou à física. Artes, liderança, psicomotricidade, verbal e criatividade produtiva desaparecem do quadro.",
+      "harm": "A política educacional herda o recorte: olimpíadas de exatas viram prova de superdotação. Estudantes superdotados em outras áreas seguem invisíveis — inclusive no Brasil.",
+      "counter": "Usar o próprio recorte matemático para discuti-lo. Perguntar: quem não entra neste filme? Onde está a criança superdotada em artes visuais da escola pública do DF?",
+      "howItLooks": [
+        "O quadro negro como único cenário do talento",
+        "A olimpíada como rito de passagem",
+        "A metáfora 'mente brilhante' sempre quantitativa"
+      ]
+    },
+    {
+      "slug": "familia-como-obstaculo",
+      "name": "A família como obstáculo",
+      "kicker": "Quem atrapalha o gênio",
+      "summary": "Pais são retratados como ignorantes, gananciosos ou ausentes. A criança superdotada precisa ser salva de sua própria casa por um professor, um tio ou a instituição.",
+      "harm": "Estigmatiza famílias populares e mães solo. Empurra a identificação de AH/SD para o conflito judicial. Apaga o papel de quem, na vida real, costuma ser o primeiro a notar.",
+      "counter": "Mostrar a família como interlocutora — inclusive quando erra. Formar o olhar dos responsáveis é o contrário de substituí-los no filme.",
+      "howItLooks": [
+        "A avó que quer a criança numa vitrine acadêmica",
+        "O pai que diz 'isso não dá futuro'",
+        "A guarda disputada em nome do QI"
+      ]
+    }
+  ],
+  "extraDomains": {},
+  "deletedDomainSlugs": [],
+  "glossaryIntro": "Termos que a cobertura de AH/SD e o cânone do gênio costumam fundir. Separá-los é o primeiro gesto de contra-enquadramento.",
+  "referencial": {
+    "intro": "O produto técnico se apoia em quatro frentes que os capítulos anteriores da pesquisa já tensionam: a concepção de AH/SD no Brasil; a teoria do enquadramento e do contra-enquadramento; a educomunicação e o letramento midiático; a análise do filme como método de leitura. O cinema entra como corpus e como pedagogia informal.",
+    "sections": [
+      {
+        "heading": "AH/SD: da identificação à política",
+        "paragraphs": [
+          "A nomenclatura Altas Habilidades/Superdotação é a que a educação especial brasileira consagrou, em continuidade com a tradição de Helena Antipoff e com a Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva (Brasil, 2008). Não coincide com o 'gênio' do senso comum nem com o QI isolado. Renzulli (1986) desloca o fenômeno para a interseção de habilidade acima da média, criatividade e comprometimento com a tarefa — os três anéis — e autoriza pensar a AH/SD como potencial a ser educado, não como essência a ser exibida.",
+          "A pesquisa que origina esta plataforma observa, contudo, que a cobertura jornalística e a comunicação institucional ainda operam com um recorte estreito: olimpíada, Matemática, menino, recorde. A especificidade da área de Matemática, que deveria complexificar o debate, vira metáfora do intelecto. Vygotsky (2007) e as hiperexcitabilidades de Dabrowski (1972) entram aqui como contrapeso: o alto potencial é social, afetivo e intenso — não um palco."
+        ]
+      },
+      {
+        "heading": "Enquadramento e contra-enquadramento",
+        "paragraphs": [
+          "Entman (1993) descreve o framing como seleção e saliência: definir um problema, diagnosticar uma causa, fazer um juízo moral e sugerir um remédio. O lead do 'menino-gênio' cumpre as quatro funções. Goffman (2012) lembra que quadros organizam a experiência; Porto (2004) desloca o conceito para a disputa política da mídia brasileira. Contra-enquadrar, neste produto, não é opinar o contrário: é reconstituir o que o quadro cortou — área, classe, raça, gênero, pares, tédio, vínculo, legislação.",
+          "O método comparativo (Schneider; Schmitt, 1998) autoriza tratar os filmes não como ilustrações isoladas, mas como um cânone que se repete. A comparação evidencia o que é estável (lousa, isolamento, sofrimento) e o que é ausência (o cinema brasileiro, a menina negra da rede pública, a AH/SD em artes)."
+        ]
+      },
+      {
+        "heading": "Educomunicação e letramento midiático",
+        "paragraphs": [
+          "A educomunicação, no sentido de Soares (2011) e do campo latino-americano, recusa o receptor passivo. A mídia já educa; a questão é disputar essa educação. Buckingham (2003) e a UNESCO (2013) nomeiam o letramento midiático como leitura, avaliação e produção de sentidos. Aplicado à AH/SD, o letramento não pede filmes 'positivos': pede espectadores capazes de ver o quadro e o fora de campo.",
+          "Daí o desenho da plataforma: ficha, dois índices (risco de estereótipo e potencial pedagógico), roteiro de perguntas, destinação por público. O produto técnico de um mestrado profissional deve poder sair do repositório — para a redação, a reunião de pais, a licenciatura."
+        ]
+      },
+      {
+        "heading": "O filme como texto",
+        "paragraphs": [
+          "A análise fílmica, em Aumont e Marie (2009), recusa a sinopse como método. O sentido mora no plano, no recorte, no que a câmera ama. Esta plataforma herda esse rigor: cada ficha trabalha enquadramento visível (lousa, janela, palco, internato) e o que ele faz à ideia de superdotação. O cinema é tratado como pedagogia informal — a apostila que familiares, docentes e jornalistas já leram antes da legislação.",
+          "Os stills do catálogo são composições de atmosfera, não cartazes oficiais. O gesto é coerente com o método: não reproduzir o marketing do gênio; devolver uma imagem que possa ser lida."
+        ]
+      }
+    ],
+    "bibliography": [
+      {
+        "id": "aumont-2009",
+        "text": "AUMONT, Jacques; MARIE, Michel. A análise do filme. Lisboa: Edições Texto & Grafia, 2009."
+      },
+      {
+        "id": "antipoff",
+        "text": "ANTIPOFF, Helena. A educação do bem-dotado. Rio de Janeiro: SENAI, [vários anos]; ver também o legado da Fazenda do Rosário e da Sociedade Pestalozzi."
+      },
+      {
+        "id": "brasil-1996",
+        "text": "BRASIL. Lei nº 9.394, de 20 de dezembro de 1996. Estabelece as diretrizes e bases da educação nacional. Diário Oficial da União, Brasília, 23 dez. 1996."
+      },
+      {
+        "id": "brasil-2008",
+        "text": "BRASIL. Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva. Brasília: MEC/SEESP, 2008."
+      },
+      {
+        "id": "buckingham-2003",
+        "text": "BUCKINGHAM, David. Media education: literacy, learning and contemporary culture. Cambridge: Polity, 2003."
+      },
+      {
+        "id": "dabrowski-1972",
+        "text": "DABROWSKI, Kazimierz. Psychoneurosis is not an illness. London: Gryf, 1972."
+      },
+      {
+        "id": "entman-1993",
+        "text": "ENTMAN, Robert M. Framing: toward clarification of a fractured paradigm. Journal of Communication, v. 43, n. 4, p. 51-58, 1993."
+      },
+      {
+        "id": "goffman-2012",
+        "text": "GOFFMAN, Erving. Os quadros da experiência social: uma perspectiva de análise. Petrópolis: Vozes, 2012."
+      },
+      {
+        "id": "porto-2004",
+        "text": "PORTO, Mauro. Enquadramentos da mídia e política. In: RUBIM, Antonio Albino Canelas (org.). Comunicação e política: conceitos e abordagens. Salvador: Edufba, 2004."
+      },
+      {
+        "id": "renzulli-1986",
+        "text": "RENZULLI, Joseph S. The three-ring conception of giftedness: a developmental model for creative productivity. In: STERNBERG, Robert J.; DAVIDSON, Janet E. (org.). Conceptions of giftedness. Cambridge: Cambridge University Press, 1986."
+      },
+      {
+        "id": "schneider-schmitt-1998",
+        "text": "SCHNEIDER, Sergio; SCHMITT, Cláudia Job. O uso do método comparativo nas Ciências Sociais. Cadernos de Sociologia, Porto Alegre, v. 9, p. 49-87, 1998."
+      },
+      {
+        "id": "soares-2011",
+        "text": "SOARES, Ismar de Oliveira. Educomunicação: o conceito, o profissional, a aplicação. São Paulo: Paulinas, 2011."
+      },
+      {
+        "id": "unesco-2013",
+        "text": "UNESCO. Media and information literacy: policy and strategy guidelines. Paris: UNESCO, 2013."
+      },
+      {
+        "id": "vygotsky-2007",
+        "text": "VIGOTSKI, Lev Semionovitch. A formação social da mente. 7. ed. São Paulo: Martins Fontes, 2007."
+      }
+    ]
+  },
+  "about": {
+    "tagline": "Recurso pedagógico de educomunicação e letramento midiático para a desestigmatização das Altas Habilidades/Superdotação no cinema e na literatura, voltado a familiares, educadores, pesquisadores e imprensa.",
+    "mission": "Recurso pedagógico de educomunicação e letramento midiático para a desestigmatização das Altas Habilidades/Superdotação no cinema e na literatura, voltado a familiares, educadores, pesquisadores e imprensa.",
+    "sections": [
+      {
+        "heading": "Sobre o projeto",
+        "paragraphs": [
+          "Esta plataforma é o produto técnico idealizado pelo jornalista da Secretaria de Educação do Distrito Federal, Giordano Bazzo, apresentado como trabalho final do Mestrado Profissional da Faculdade de Educação da Universidade de Brasília.  É uma ferramenta de contra-enquadramento voltada à formação do olhar do espectador. Toma a cultura popular, especificamente filmes, séries e literatura, como porta de entrada para a análise instruída dessas representações. O objetivo é qualificar o debate público e favorecer processos de identificação a partir do letramento midiático, promovendo o contra-enquadramento e a desestigmatização das narrativas correntes sobre as AH/SD. Destina-se a pessoas com alto potencial cognitivo e seus familiares, pesquisadores da área, docentes e profissionais da imprensa. "
+        ]
+      }
+    ],
+    "disclaimer": "A plataforma não realiza avaliação de AH/SD, não substitui política educacional e não diagnostica personagens. Os stills são composições originais de atmosfera — não cartazes oficiais."
+  },
+  "press": {
+    "intro": "A cobertura de AH/SD herda o cânone do cinema. Este kit oferece trocas de lead, uma lista do que não fazer, e o roteiro completo de pauta.",
+    "paragraphs": [
+      "A cobertura de AH/SD herda o cânone do cinema. Este kit oferece trocas de lead, uma lista do que não fazer, e o roteiro completo de pauta."
+    ],
+    "sections": [],
+    "frames": [
+      {
+        "bad": "Menino-gênio de 8 anos surpreende universidade",
+        "good": "Rede pública identifica alto potencial em Matemática — e o que falta depois da medalha"
+      },
+      {
+        "bad": "Como Rain Man, ele memoriza qualquer número",
+        "good": "Família busca avaliação de AH/SD após anos de tédio escolar. Savantismo não é o caso."
+      },
+      {
+        "bad": "A Beth Harmon brasileira conquista o tabuleiro",
+        "good": "Campeã juvenil de xadrez discute pressão, gênero e o que a escola ainda não oferece"
+      },
+      {
+        "bad": "QI 160: o segredo da criança mais inteligente do estado",
+        "good": "QI não é política educacional. Especialistas explicam por que a cifra não deve abrir a matéria"
+      }
+    ]
+  }
+}
